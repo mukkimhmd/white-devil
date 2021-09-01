@@ -1,0 +1,21 @@
+2021-08-25T15:26:40.661536+00:00 app[worker.1]: 
+2021-08-25T15:26:40.661936+00:00 app[worker.1]: Running node-supervisor with
+2021-08-25T15:26:40.661965+00:00 app[worker.1]:   program 'bot.js'
+2021-08-25T15:26:40.661997+00:00 app[worker.1]:   --watch '.'
+2021-08-25T15:26:40.662002+00:00 app[worker.1]:   --extensions 'node,js'
+2021-08-25T15:26:40.662019+00:00 app[worker.1]:   --exec 'node'
+2021-08-25T15:26:40.662055+00:00 app[worker.1]: 
+2021-08-25T15:26:40.662150+00:00 app[worker.1]: Starting child process with 'node bot.js'
+2021-08-25T15:26:40.668179+00:00 app[worker.1]: Watching directory '/root/WhatsAsenaDuplicated' for changes.
+2021-08-25T15:26:40.668204+00:00 app[worker.1]: Press rs for restarting the process.
+2021-08-25T15:26:42.018837+00:00 app[worker.1]: Loading SI language...
+2021-08-25T15:26:42.802070+00:00 app[worker.1]: WhatsAsena
+2021-08-25T15:26:42.802082+00:00 app[worker.1]: Version: v1.3.2 Global Stable
+2021-08-25T15:26:42.802083+00:00 app[worker.1]: 
+2021-08-25T15:26:42.802083+00:00 app[worker.1]: ℹ️ Connecting to WhatsApp... Please Wait.
+2021-08-25T15:26:43.765408+00:00 app[worker.1]: ✅ Login successful!
+2021-08-25T15:26:43.767046+00:00 app[worker.1]: ⬇️ Installing External Plugins...
+2021-08-25T15:26:43.777075+00:00 app[worker.1]: ⬇️  Installing Plugins...
+2021-08-25T15:26:44.805369+00:00 app[worker.1]: ✅ Plugins Installed!
+2021-08-25T15:26:44.809158+00:00 app[worker.1]: ✅ Login Information Updated!
+2021-08-25T15:26:45.005582+00:00 app[worker.1]: 🐉White🐉Dragon Public
